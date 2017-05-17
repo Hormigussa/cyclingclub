@@ -1,0 +1,83 @@
+@font-face {
+    font-family:bongemojafont;
+    src:url(fonts/SansationLight.woff);
+}
+@font-face {
+    font-family:teko;
+    src:url(fonts/Teko-Bold.woff);
+}
+
+body { 
+    background-color:aqua;
+    font-family:'bongemojafont';
+
+}
+#divMaster {
+    width:1500px;
+}
+#divHeader {
+    display: inline-block;
+    /*border: 1px solid black;*/
+    height: 40px;
+    width: 1350px;
+    text-align:center;
+    padding-top:10px;
+    font-family:teko;
+    font-size:250%;
+}
+
+#divNav {
+    display:block;
+    /*border: 1px solid black;*/
+    height: 40px;
+    width: 650px;
+    padding-left:100px;
+    padding-top:10px;
+    margin-left:300px;
+    margin-bottom:20px;
+    font-size:110%;
+}
+
+#divNav a:link{
+    text-decoration:none;
+
+}
+#divImg {
+    /*display: inline-block;*/
+    /*border: 1px solid black;*/
+    overflow:hidden;
+    height: 436px;
+    width: 388px;
+    float:left;
+}
+#divImg img{
+    height: 100%; 
+    width: 100%; 
+    text-align: center;
+}
+#divText {
+    display: inline-block;
+    /*border: 1px solid black;*/
+    /*height: 446px;*/
+    width: 930px;
+    /*float:right;*/
+    padding: 20px 0px 20px 10px;
+}
+    #group1, #group2, #group3 {
+        border:1px solid black;
+        display:inline-block;
+        margin:auto;
+        /*height:100px;*/
+        font-family:teko;
+        vertical-align:top;
+        font-size:150%;
+        width:250px;
+    }
+    
+#divFooter {
+    display: inline-block;
+    /*border: 1px solid black;*/
+    /*height: 50px;*/
+    width: 1350px;
+    text-align:center;
+}
