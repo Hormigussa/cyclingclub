@@ -11,5 +11,6 @@
 
 
 **GROUPS PAGE:**
+Uncluttered arrangement and easy to locate info 
 ![screenshot 2](https://cloud.githubusercontent.com/assets/15701207/26367823/934eed64-3ff8-11e7-8a9a-5f6d758e3f94.png)
 
