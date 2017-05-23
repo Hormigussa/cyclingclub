@@ -1,5 +1,5 @@
 # cyclingclub
-## A tatic website for a cycling club created as an assignment for NCCs L4DBIT
+## A static website for a cycling club created as an assignment for NCCs L4DBIT
 **simple and minimal UI design**
 
 **HOMEPAGE:**
