@@ -57,17 +57,13 @@ body {
 }
 #divText {
     display: inline-block;
-    /*border: 1px solid black;*/
-    /*height: 446px;*/
+	list-style-type:none;
     width: 930px;
-    /*float:right;*/
     padding: 20px 0px 20px 10px;
 }
     #group1, #group2, #group3 {
-        border:1px solid black;
         display:inline-block;
         margin:auto;
-        /*height:100px;*/
         font-family:teko;
         vertical-align:top;
         font-size:150%;
@@ -76,8 +72,6 @@ body {
     
 #divFooter {
     display: inline-block;
-    /*border: 1px solid black;*/
-    /*height: 50px;*/
     width: 1350px;
     text-align:center;
 }
